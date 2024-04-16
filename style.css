@@ -1,0 +1,76 @@
+h3 {
+color: white;
+background-color: chocolate;
+font-size: 10;
+}
+
+h2 {
+color:white;
+background-color: cornflowerblue;
+font-size:5;
+}
+.dotted-border {
+    border: 2px dotted #000; 
+}
+.no-border {
+    border: none;
+}
+
+.dashed-border {
+    border: 2px dashed #000; 
+}
+
+.solid-border {
+    border: 2px solid #000; 
+}
+
+.double-border {
+    border-width: 3px;
+    border-style: double;
+    border-color: #000;
+}
+
+.groove-border {
+    border-width: 3px;
+    border-style: groove;
+    border-color: #000;
+}
+
+.inset-border {
+    border-width: 3px;
+    border-style: inset;
+    border-color: #000;
+}
+
+.outset-border {
+    border-width: 3px;
+    border-style: outset;
+    border-color: #000;
+}
+
+.hidden-border {
+    border-width: 3px;
+    border-style: hidden;
+    border-color: #000;
+}
+
+.kumar-atul-jaiswal-red {
+    border: 2px solid red;
+}
+
+.kumar-atul-jaiswal-green {
+    border: 2px solid green; 
+}
+.kumar-atul-jaiswal-multicolor {
+    box-shadow: 
+        0 0 0 2px red, 
+        0 0 0 4px orange,
+        0 0 0 6px yellow,
+        0 0 0 8px green; 
+}
+
+.ridge-border {
+    border: 2px ridge #000; /* 2px kalınlığında ve siyah renkte ridge kenarlık */
+}
+
+
